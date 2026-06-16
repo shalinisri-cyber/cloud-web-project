@@ -1,0 +1,10 @@
+{
+"name":"cloud-project",
+"version":"1.0.0",
+"dependencies":{
+"express":"latest"
+},
+"scripts":{
+"start":"node app.js"
+}
+}
